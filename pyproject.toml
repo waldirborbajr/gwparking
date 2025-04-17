@@ -1,0 +1,9 @@
+[project]
+name = "gwparking"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "opencv-python>=4.11.0.86",
+    "pytesseract>=0.3.13",
+    "requests>=2.32.3",
+]
